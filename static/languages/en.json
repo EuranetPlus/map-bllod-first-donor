@@ -1,13 +1,14 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Which EU countries attract the most new blood donors?",
+  "subtitle": "Romania recorded the EU27’s highest share of new blood donors at 35%, followed by Poland with 28%, while Greece and Lithuania each reached 25%; Malta had the lowest share at 9%, followed by Croatia and Czechia at 12%.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "This map shows the proportion of new blood donors relative to the total donor population in each EU country. The value indicates what share of all people who donated blood during the year were first-time donors. Most countries use 2023 data. For Ireland and Luxembourg, no 2023 value was reported in the source table, so the latest available 2022 value was used instead.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "European Directorate for the Quality of Medicines & Healthcare",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
+  "extraInfo_IE": "No 2023 value reported in the source table. 2022 value used instead.",
+  "extraInfo_LU": "No 2023 value reported in the source table. 2022 value used instead.",
   "legend1": "No data available",
+  "customUnitLabel": "of total donor population",
   "tooltipExtraInfoLabel": "Click here"
 }
