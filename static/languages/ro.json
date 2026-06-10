@@ -1,13 +1,14 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care țări ale UE atrag cei mai mulți donatori de sânge noi?",
+  "subtitle": "România a înregistrat cea mai mare pondere de donatori noi de sânge din UE-27, de 35%, urmată de Polonia cu 28%, în timp ce Grecia și Lituania au atins fiecare 25%; Malta a avut cea mai mică pondere, de 9%, urmată de Croația și Cehia cu 12%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Această hartă arată proporția de noi donatori de sânge în raport cu populația totală de donatori din fiecare țară a UE. Valoarea indică ce procent din totalul persoanelor care au donat sânge în cursul anului au fost donatori pentru prima dată. Majoritatea țărilor utilizează date din 2023. Pentru Irlanda și Luxemburg, nu a fost raportată nicio valoare din 2023 în tabelul sursă, așa că a fost utilizată în schimb cea mai recentă valoare disponibilă din 2022.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Direcția Europeană pentru Calitatea Medicamentelor și Asistenței Medicale",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_IE": "Nu a fost raportată nicio valoare din 2023 în tabelul sursă. A fost utilizată în schimb valoarea din 2022.",
+  "extraInfo_LU": "Nu a fost raportată nicio valoare din 2023 în tabelul sursă. A fost utilizată în schimb valoarea din 2022.",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din populația totală de donatori",
   "tooltipExtraInfoLabel": "Click aici"
 }
