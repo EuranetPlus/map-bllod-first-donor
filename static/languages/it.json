@@ -1,13 +1,14 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quali paesi dell'UE attraggono il maggior numero di nuovi donatori di sangue?",
+  "subtitle": "La Romania ha registrato la percentuale più alta di nuovi donatori di sangue nell'UE27, pari al 35%, seguita dalla Polonia con il 28%, mentre Grecia e Lituania hanno raggiunto entrambe il 25%; Malta ha avuto la percentuale più bassa, pari al 9%, seguita da Croazia e Repubblica Ceca con il 12%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Questa mappa mostra la proporzione di nuovi donatori di sangue rispetto alla popolazione totale dei donatori in ciascun paese dell'UE. Il valore indica la percentuale di donatori alla prima esperienza sul totale delle persone che hanno donato il sangue durante l'anno. La maggior parte dei paesi utilizza i dati del 2023. Per l'Irlanda e il Lussemburgo, non essendo disponibile un valore per il 2023 nella tabella di origine, è stato utilizzato l'ultimo valore disponibile, quello del 2022.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Direzione europea per la qualità dei medicinali e dell'assistenza sanitaria",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "extraInfo_IE": "Nella tabella di origine non è riportato alcun valore per il 2023. È stato utilizzato il valore del 2022.",
+  "extraInfo_LU": "Nella tabella di origine non è riportato alcun valore per il 2023. È stato utilizzato il valore del 2022.",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "della popolazione totale dei donatori",
   "tooltipExtraInfoLabel": "clicca qui"
 }
