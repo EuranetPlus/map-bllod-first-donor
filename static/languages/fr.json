@@ -1,13 +1,14 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quels sont les pays de l'UE qui attirent le plus de nouveaux donneurs de sang ?",
+  "subtitle": "La Roumanie a enregistré la part la plus élevée de nouveaux donneurs de sang parmi les 27 pays membres de l'UE, à 35 %, suivie de la Pologne avec 28 %, tandis que la Grèce et la Lituanie ont chacune atteint 25 % ; Malte a enregistré la part la plus faible à 9 %, suivie de la Croatie et de la Tchéquie à 12 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Cette carte illustre la proportion de nouveaux donneurs de sang par rapport au nombre total de donneurs dans chaque pays de l'UE. La valeur indique la part des personnes ayant donné leur sang au cours de l'année qui étaient des donneurs novices. La plupart des pays utilisent les données de 2023. Pour l'Irlande et le Luxembourg, aucune donnée de 2023 n'étant disponible dans le tableau source, la dernière donnée disponible de 2022 a été utilisée.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Direction européenne de la qualité des médicaments et des soins de santé",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_IE": "Aucune valeur pour 2023 n'est indiquée dans le tableau source. La valeur de 2022 a été utilisée à la place.",
+  "extraInfo_LU": "Aucune valeur pour 2023 n'est indiquée dans le tableau source. La valeur de 2022 a été utilisée à la place.",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de la population totale des donneurs",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
