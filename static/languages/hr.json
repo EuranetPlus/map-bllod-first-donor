@@ -1,13 +1,14 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koje zemlje EU privlače najviše novih darivatelja krvi?",
+  "subtitle": "Rumunjska je zabilježila najveći udio novih darivatelja krvi u EU27 s 35%, a slijedi Poljska s 28%, dok su Grčka i Litva dosegle po 25%; Malta je imala najmanji udio s 9%, a slijede Hrvatska i Češka s 12%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Ova karta prikazuje udio novih darivatelja krvi u odnosu na ukupnu populaciju darivatelja u svakoj zemlji EU-a. Vrijednost pokazuje koliki je udio svih ljudi koji su darovali krv tijekom godine bio darivatelj prvi put. Većina zemalja koristi podatke iz 2023. Za Irsku i Luksemburg u izvornoj tablici nije prijavljena vrijednost za 2023., pa je umjesto toga korištena najnovija dostupna vrijednost iz 2022.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europski direktorat za kvalitetu lijekova i zdravstvene zaštite",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_IE": "U izvornoj tablici nije navedena vrijednost iz 2023. Umjesto toga korištena je vrijednost iz 2022.",
+  "extraInfo_LU": "U izvornoj tablici nije navedena vrijednost iz 2023. Umjesto toga korištena je vrijednost iz 2022.",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "ukupne populacije darivatelja",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
