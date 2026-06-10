@@ -1,13 +1,14 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Katere države EU privabljajo največ novih krvodajalcev?",
+  "subtitle": "Romunija je zabeležila najvišji delež novih krvodajalcev v EU-27, in sicer 35 %, sledi Poljska z 28 %, Grčija in Litva pa sta dosegli po 25 %; Malta je imela najnižji delež z 9 %, sledili pa sta ji Hrvaška in Češka z 12 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Ta zemljevid prikazuje delež novih krvodajalcev glede na celotno populacijo krvodajalcev v vsaki državi EU. Vrednost označuje, kolikšen delež vseh ljudi, ki so v tem letu darovali kri, je bil prvič daroval. Večina držav uporablja podatke za leto 2023. Za Irsko in Luksemburg v izvorni tabeli ni bila navedena vrednost za leto 2023, zato je bila namesto tega uporabljena najnovejša razpoložljiva vrednost za leto 2022.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Evropski direktorat za kakovost zdravil in zdravstvenega varstva",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_IE": "V izvorni tabeli ni navedena vrednost za leto 2023. Namesto tega je uporabljena vrednost za leto 2022.",
+  "extraInfo_LU": "V izvorni tabeli ni navedena vrednost za leto 2023. Namesto tega je uporabljena vrednost za leto 2022.",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "celotne populacije darovalcev",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
