@@ -1,13 +1,14 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Liema pajjiżi tal-UE jattiraw l-aktar donaturi ġodda tad-demm?",
+  "subtitle": "Ir-Rumanija rreġistrat l-ogħla sehem ta’ donaturi ġodda tad-demm fl-UE27 b’35%, segwita mill-Polonja b’28%, filwaqt li l-Greċja u l-Litwanja laħqu l-25% kull waħda; Malta kellha l-inqas sehem b’9%, segwita mill-Kroazja u ċ-Ċekja b’12%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-mappa turi l-proporzjon ta’ donaturi ġodda tad-demm relattiv għall-popolazzjoni totali tad-donaturi f’kull pajjiż tal-UE. Il-valur jindika x’sehem mill-persuni kollha li taw id-demm matul is-sena kienu donaturi għall-ewwel darba. Il-biċċa l-kbira tal-pajjiżi jużaw dejta tal-2023. Għall-Irlanda u l-Lussemburgu, l-ebda valur tal-2023 ma ġie rrappurtat fit-tabella tas-sors, għalhekk minflok intuża l-aħħar valur disponibbli tal-2022.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Direttorat Ewropew għall-Kwalità tal-Mediċini u l-Kura tas-Saħħa",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_IE": "L-ebda valur tal-2023 ma ġie rrappurtat fit-tabella tas-sors. Minflok intuża l-valur tal-2022.",
+  "extraInfo_LU": "L-ebda valur tal-2023 ma ġie rrappurtat fit-tabella tas-sors. Minflok intuża l-valur tal-2022.",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-popolazzjoni totali tad-donaturi",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
