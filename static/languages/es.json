@@ -1,13 +1,14 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Qué países de la UE atraen a más donantes de sangre nuevos?",
+  "subtitle": "Rumanía registró el mayor porcentaje de nuevos donantes de sangre de la UE27, con un 35%, seguida de Polonia con un 28%, mientras que Grecia y Lituania alcanzaron cada una un 25%; Malta tuvo el porcentaje más bajo, con un 9%, seguida de Croacia y la República Checa con un 12%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Este mapa muestra la proporción de nuevos donantes de sangre con respecto al total de donantes en cada país de la UE. El valor indica qué porcentaje de todas las personas que donaron sangre durante el año lo hicieron por primera vez. La mayoría de los países utilizan datos de 2023. Para Irlanda y Luxemburgo, no se encontró ningún valor de 2023 en la tabla de origen, por lo que se utilizó el último valor disponible de 2022.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Dirección Europea para la Calidad de los Medicamentos y la Asistencia Sanitaria",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
+  "extraInfo_IE": "No se encontró ningún valor para 2023 en la tabla de origen. En su lugar, se utilizó el valor de 2022.",
+  "extraInfo_LU": "No se encontró ningún valor para 2023 en la tabla de origen. En su lugar, se utilizó el valor de 2022.",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "del total de la población donante",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
