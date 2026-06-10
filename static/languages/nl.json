@@ -1,13 +1,14 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Welke EU-landen trekken de meeste nieuwe bloeddonoren aan?",
+  "subtitle": "Roemenië had met 35% het hoogste percentage nieuwe bloeddonoren binnen de EU27, gevolgd door Polen met 28%. Griekenland en Litouwen bereikten elk 25%. Malta had het laagste percentage met 9%, gevolgd door Kroatië en Tsjechië met 12%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Deze kaart toont het aandeel nieuwe bloeddonoren ten opzichte van de totale donorpopulatie in elk EU-land. De waarde geeft aan welk percentage van alle mensen die in het betreffende jaar bloed hebben gedoneerd, voor het eerst bloed doneerden. De meeste landen gebruiken gegevens uit 2023. Voor Ierland en Luxemburg waren er geen gegevens uit 2023 beschikbaar in de brontabel, daarom is in plaats daarvan de meest recente beschikbare waarde uit 2022 gebruikt.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees directoraat voor de kwaliteit van geneesmiddelen en gezondheidszorg",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_IE": "Er is geen waarde voor 2023 gerapporteerd in de brontabel. In plaats daarvan is de waarde voor 2022 gebruikt.",
+  "extraInfo_LU": "Er is geen waarde voor 2023 gerapporteerd in de brontabel. In plaats daarvan is de waarde voor 2022 gebruikt.",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de totale donorpopulatie",
   "tooltipExtraInfoLabel": "Klik hier"
 }
