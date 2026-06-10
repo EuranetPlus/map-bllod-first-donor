@@ -1,13 +1,14 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Millised EL riigid meelitavad ligi kõige rohkem uusi veredoonoreid?",
+  "subtitle": "Rumeenias registreeriti EL 27 kõrgeim uute veredoonorite osakaal 35%-ga, millele järgnes Poola 28%-ga, samal ajal kui Kreeka ja Leedu saavutasid mõlemad 25%; madalaim oli Malta osakaal 9%-ga, järgnesid Horvaatia ja Tšehhi 12%-ga.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "See kaart näitab uute veredoonorite osakaalu doonorite koguarvust igas ELi riigis. Väärtus näitab, kui suur osa kõigist aasta jooksul verd loovutanud inimestest olid esmakordsed doonorid. Enamik riike kasutab 2023. aasta andmeid. Iirimaa ja Luksemburgi puhul ei ole alliktabelis 2023. aasta väärtust esitatud, seega kasutati selle asemel viimast saadaolevat 2022. aasta väärtust.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Ravimite ja Tervishoiu Kvaliteedi Direktoraat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "extraInfo_IE": "Allikas tabelis ei ole 2023. aasta väärtust esitatud. Selle asemel kasutati 2022. aasta väärtust.",
+  "extraInfo_LU": "Allikas tabelis ei ole 2023. aasta väärtust esitatud. Selle asemel kasutati 2022. aasta väärtust.",
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "kogu doonorite populatsioonist",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
