@@ -1,13 +1,14 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Ktoré krajiny EÚ priťahujú najviac nových darcov krvi?",
+  "subtitle": "Rumunsko zaznamenalo najvyšší podiel nových darcov krvi v EÚ27 s 35 %, nasledované Poľskom s 28 %, zatiaľ čo Grécko a Litva dosiahli po 25 %; Malta mala najnižší podiel s 9 %, nasledované Chorvátskom a Českou republikou s 12 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Táto mapa zobrazuje podiel nových darcov krvi v pomere k celkovému počtu darcov v každej krajine EÚ. Hodnota udáva, aký podiel všetkých ľudí, ktorí darovali krv počas roka, boli darcovia prvýkrát. Väčšina krajín používa údaje z roku 2023. V prípade Írska a Luxemburska nebola v zdrojovej tabuľke uvedená žiadna hodnota za rok 2023, preto bola namiesto toho použitá najnovšia dostupná hodnota z roku 2022.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európske riaditeľstvo pre kvalitu liekov a zdravotnej starostlivosti",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_IE": "V zdrojovej tabuľke nie je uvedená žiadna hodnota z roku 2023. Namiesto toho bola použitá hodnota z roku 2022.",
+  "extraInfo_LU": "V zdrojovej tabuľke nie je uvedená žiadna hodnota z roku 2023. Namiesto toho bola použitá hodnota z roku 2022.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "celkovej populácie darcov",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
