@@ -1,13 +1,14 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Vilka EU-länder lockar flest nya blodgivare?",
+  "subtitle": "Rumänien hade den högsta andelen nya blodgivare i EU27 med 35 %, följt av Polen med 28 %, medan Grekland och Litauen nådde 25 % vardera. Malta hade den lägsta andelen med 9 %, följt av Kroatien och Tjeckien med 12 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna karta visar andelen nya blodgivare i förhållande till den totala givarpopulationen i varje EU-land. Värdet anger hur stor andel av alla personer som donerade blod under året som var förstagångsgivare. De flesta länder använder data från 2023. För Irland och Luxemburg rapporterades inget värde för 2023 i källtabellen, så det senast tillgängliga värdet för 2022 användes istället.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska direktoratet för läkemedelskvalitet och hälso- och sjukvård",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_IE": "Inget värde för 2023 rapporterades i källtabellen. Värdet för 2022 användes istället.",
+  "extraInfo_LU": "Inget värde för 2023 rapporterades i källtabellen. Värdet för 2022 användes istället.",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av den totala givarpopulationen",
   "tooltipExtraInfoLabel": "Klicka här"
 }
