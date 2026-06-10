@@ -1,13 +1,14 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kurios ES šalys pritraukia daugiausia naujų kraujo donorų?",
+  "subtitle": "Didžiausia naujų kraujo donorų dalis ES 27 šalyse buvo Rumunijoje – 35 %, po jos sekė Lenkija – 28 %, o Graikija ir Lietuva pasiekė po 25 %; mažiausia dalis buvo Maltoje – 9 %, po jos sekė Kroatija ir Čekija – 12 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šiame žemėlapyje parodyta naujų kraujo donorų dalis, palyginti su bendru donorų skaičiumi kiekvienoje ES šalyje. Ši vertė rodo, kokia visų per metus kraujo davusių asmenų dalis buvo pirmą kartą kraujo davusieji. Dauguma šalių naudoja 2023 m. duomenis. Airijos ir Liuksemburgo atveju šaltinio lentelėje 2023 m. vertė nebuvo pateikta, todėl buvo naudojama naujausia turima 2022 m. vertė.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos vaistų ir sveikatos priežiūros kokybės direktoratas",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_IE": "Šaltinio lentelėje nepateikta 2023 m. reikšmė. Vietoj jos naudojama 2022 m. reikšmė.",
+  "extraInfo_LU": "Šaltinio lentelėje nepateikta 2023 m. reikšmė. Vietoj jos naudojama 2022 m. reikšmė.",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "visų donorų populiacijos",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
