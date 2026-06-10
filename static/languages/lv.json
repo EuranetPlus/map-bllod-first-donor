@@ -1,13 +1,14 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kuras ES valstis piesaista visvairāk jaunu asins donoru?",
+  "subtitle": "Rumānijā bija ES27 lielākais jauno asins donoru īpatsvars — 35 %, tai sekoja Polija ar 28 %, savukārt Grieķijā un Lietuvā šis rādītājs sasniedza 25 %; viszemākais bija Maltas īpatsvars — 9 %, kam sekoja Horvātija un Čehija ar 12 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šajā kartē ir parādīta jauno asins donoru īpatsvars attiecībā pret kopējo donoru skaitu katrā ES valstī. Vērtība norāda, cik liela daļa no visiem cilvēkiem, kas ziedoja asinis gada laikā, bija pirmreizējie donori. Lielākā daļa valstu izmanto 2023. gada datus. Īrijas un Luksemburgas gadījumā avota tabulā netika norādīta 2023. gada vērtība, tāpēc tā vietā tika izmantota jaunākā pieejamā 2022. gada vērtība.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Zāļu un veselības aprūpes kvalitātes direktorāts",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_IE": "Avota tabulā nav norādīta 2023. gada vērtība. Tā vietā izmantota 2022. gada vērtība.",
+  "extraInfo_LU": "Avota tabulā nav norādīta 2023. gada vērtība. Tā vietā izmantota 2022. gada vērtība.",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no kopējā donoru skaita",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
