@@ -1,13 +1,14 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé na tíortha san AE a mheallann an líon is mó deontóirí fola nua?",
+  "subtitle": "Bhí an sciar is airde deontóirí fola nua san AE27 sa Rómáin, ag 35%, agus an Pholainn ina diaidh sin le 28%, agus an Ghréig agus an Liotuáin ag 25% an ceann; bhí an sciar is ísle ag Málta, ag 9%, agus an Chróit agus an tSeicia ina diaidh sin le 12%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Taispeánann an léarscáil seo cion na ndeontóirí fola nua i gcomparáid le daonra iomlán na ndeontóirí i ngach tír san AE. Léiríonn an luach cén cion de na daoine uile a thug fuil i rith na bliana a bhí ina ndeontóirí den chéad uair. Úsáideann formhór na dtíortha sonraí 2023. I gcás na hÉireann agus Lucsamburg, níor tuairiscíodh aon luach 2023 sa tábla foinse, mar sin úsáideadh an luach is déanaí a bhí ar fáil do 2022 ina ionad.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Stiúrthóireacht Eorpach um Cháilíocht Leigheasanna & Cúram Sláinte",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_IE": "Níor tuairiscíodh aon luach 2023 sa tábla foinse. Úsáideadh luach 2022 ina ionad.",
+  "extraInfo_LU": "Níor tuairiscíodh aon luach 2023 sa tábla foinse. Úsáideadh luach 2022 ina ionad.",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den daonra deontóirí iomlán",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
