@@ -1,13 +1,14 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Mitkä EU-maat houkuttelevat eniten uusia verenluovuttajia?",
+  "subtitle": "Romaniassa uusien verenluovuttajien osuus oli EU27:n suurin, 35 %, ja sitä seurasi Puola 28 %:lla. Kreikka ja Liettua saavuttivat kumpikin 25 %:n osuuden. Maltan osuus oli pienin, 9 %, ja sitä seurasivat Kroatia ja Tšekki 12 %:lla.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tämä kartta näyttää uusien verenluovuttajien osuuden suhteessa kunkin EU-maan luovuttajien kokonaismäärään. Arvo osoittaa, kuinka suuri osa kaikista vuoden aikana verta luovuttaneista oli ensikertalaisia. Useimmat maat käyttävät vuoden 2023 tietoja. Irlannin ja Luxemburgin osalta lähdetaulukossa ei ilmoitettu vuoden 2023 arvoa, joten sen sijaan käytettiin uusinta saatavilla olevaa vuoden 2022 arvoa.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan lääkkeiden ja terveydenhuollon laatuosasto",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "extraInfo_IE": "Lähdetaulukossa ei ilmoitettu vuoden 2023 arvoa. Sen sijaan käytettiin vuoden 2022 arvoa.",
+  "extraInfo_LU": "Lähdetaulukossa ei ilmoitettu vuoden 2023 arvoa. Sen sijaan käytettiin vuoden 2022 arvoa.",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "koko luovuttajaväestöstä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
