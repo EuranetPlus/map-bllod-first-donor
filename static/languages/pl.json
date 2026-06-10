@@ -1,13 +1,14 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Które kraje UE przyciągają najwięcej nowych dawców krwi?",
+  "subtitle": "W UE27 najwyższy odsetek nowych dawców krwi odnotowano w Rumunii – 35%, na kolejnym miejscu znalazła się Polska z wynikiem 28%, a Grecja i Litwa osiągnęły po 25%. Najniższy odsetek odnotowano na Malcie – 9%, a następnie w Chorwacji i Czechach – 12%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Ta mapa przedstawia odsetek nowych dawców krwi w stosunku do całkowitej populacji dawców w każdym kraju UE. Wartość ta wskazuje, jaki odsetek wszystkich osób, które oddały krew w danym roku, to dawcy po raz pierwszy. Większość krajów korzysta z danych z 2023 roku. W przypadku Irlandii i Luksemburga w tabeli źródłowej nie podano wartości z 2023 roku, dlatego zamiast tego wykorzystano najnowszą dostępną wartość z 2022 roku.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Dyrekcja ds. Jakości Leków i Opieki Zdrowotnej",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_IE": "W tabeli źródłowej nie podano wartości z 2023 r. Zamiast tego użyto wartości z 2022 r.",
+  "extraInfo_LU": "W tabeli źródłowej nie podano wartości z 2023 r. Zamiast tego użyto wartości z 2022 r.",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "całkowitej populacji dawców",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
